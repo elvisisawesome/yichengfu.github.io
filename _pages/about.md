@@ -13,11 +13,12 @@ I am fortunate to be advised by [Prof. Jinfei Liu](https://person.zju.edu.cn/jin
 
 
 # Publications
-===
+
 Online query-based data pricing with time-discounting valuations. ICDE. 2024
 
+
 # Research Intern
-===
+
 Yunqi Academy of Engineering, Hangzhou, China (Nov 2024 - Jan 2025), supervised by [Prof. Jessie Li](https://jessielzh.com/) 
 
 
